@@ -1,0 +1,1 @@
+readme coming soon. this is a personal project that I am pushing to this repo because I am too lazy to configure multiple ssl certs xd
